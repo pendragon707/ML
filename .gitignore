@@ -6,6 +6,8 @@ common/
 lab1/solar-correlation-map
 *.csv
 *.txt
+*.tex
+RK1/rk_files
 
 
 # Byte-compiled / optimized / DLL files
