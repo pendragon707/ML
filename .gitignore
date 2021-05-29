@@ -1,14 +1,21 @@
 *.DS_Store
 ._*
 
-*.pages
 common/
-lab1/solar-correlation-map
+*.pages
 *.csv
 *.txt
 *.tex
+*.html
+lab1/solar-correlation-map
+lab4-5/lab45_old.ipynb
 RK1/rk_files
+RK2/rk.ipynb
+lab6/ml_streamlit_example/
+coursework/solar-correlation-map
+coursework/coursework.ipynb
 
+.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
